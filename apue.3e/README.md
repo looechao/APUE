@@ -6,7 +6,7 @@
 
 [随书资源](http://www.apuebook.com/code3e.html)
 
-解压
+### 解压
 ```bash
 tar src.3e.tar.gz
 ```
