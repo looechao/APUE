@@ -4,7 +4,7 @@
 
 ### 下载随书资源
 
-[随书资源](http://www.apuebook.com/code3e.html)
+[Source Code](http://www.apuebook.com/code3e.html)
 
 ### 解压
 ```bash
